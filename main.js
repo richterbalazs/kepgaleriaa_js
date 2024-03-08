@@ -50,3 +50,4 @@ balGOMBELEM.addEventListener("click", function () {
     nagyKEPELEM.SRC = KEPEK[gombIndex].kep;
 })
 
+//
